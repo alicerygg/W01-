@@ -1,0 +1,27 @@
+h3 {
+    color: blue;
+}
+
+#byui-logo {
+    height: 60px;
+    display: block;
+    margin: auto;
+}
+
+.bold {
+    font-style: italic;
+}
+
+body {
+    font-family: 'Abel';
+    margin: 70px;
+    line-height: 1.6;
+}
+
+h1, h3{
+    text-align: center;
+}
+
+h1 {
+    font-size: 50px;
+}
